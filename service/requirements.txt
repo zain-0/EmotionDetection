@@ -1,0 +1,49 @@
+anyio @ file:///C:/b/abs_847uobe7ea/croot/anyio_1706220224037/work
+asttokens==2.4.1
+colorama==0.4.6
+coloredlogs==15.0.1
+comm==0.2.1
+debugpy==1.8.0
+decorator==5.1.1
+executing==2.0.1
+fastapi @ file:///C:/b/abs_17bc_xka63/croot/fastapi_1693295449860/work
+flatbuffers @ file:///home/ktietz/cip/python-flatbuffers_1634039120618/work
+gmpy2 @ file:///C:/ci_311/gmpy2_1677743390134/work
+humanfriendly @ file:///C:/ci_311/humanfriendly_1676441479307/work
+idna @ file:///C:/ci_311/idna_1676424932545/work
+ipykernel==6.29.0
+ipython==8.20.0
+jedi==0.19.1
+jupyter_client==8.6.0
+jupyter_core==5.7.1
+matplotlib-inline==0.1.6
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+nest-asyncio==1.6.0
+numpy @ file:///C:/b/abs_c1ywpu18ar/croot/numpy_and_numpy_base_1708638681471/work/dist/numpy-1.26.4-cp311-cp311-win_amd64.whl#sha256=5dfd3e04dc1c2826d3f404fdc7f93c097901f5da9b91f4f394f79d4e038ed81d
+onnx==1.13.1
+onnxruntime @ file:///C:/b/abs_44dag176nx/croot/onnxruntime_1689679162695/work/onnxruntime-1.15.1-py3-none-any.whl#sha256=b11130a8c367f3185b35ca046912a4ce84492406876a863dd257b8fd691cd4f4
+packaging==23.2
+parso==0.8.3
+platformdirs==4.1.0
+prompt-toolkit==3.0.43
+protobuf==3.20.3
+psutil==5.9.8
+pure-eval==0.2.2
+pydantic @ file:///C:/b/abs_9byjrk31gl/croot/pydantic_1695798904828/work
+Pygments==2.17.2
+pyreadline3 @ file:///C:/ci_311/pyreadline3_1676439037239/work
+python-dateutil==2.8.2
+pywin32==306
+pyzmq==25.1.2
+six==1.16.0
+sniffio @ file:///C:/b/abs_3akdewudo_/croot/sniffio_1705431337396/work
+stack-data==0.6.3
+starlette @ file:///C:/b/abs_f6jqjvlnz0/croot/starlette-recipe_1692980584602/work
+sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
+tornado==6.4
+traitlets==5.14.1
+typing_extensions @ file:///C:/b/abs_72cdotwc_6/croot/typing_extensions_1705599364138/work
+wcwidth==0.2.13
