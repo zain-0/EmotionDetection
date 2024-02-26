@@ -21,3 +21,4 @@ def emotions_detector(img_array):
         emotion = "sad"
 
     return {"Emotion":emotion}
+

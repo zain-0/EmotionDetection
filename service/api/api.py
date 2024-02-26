@@ -6,3 +6,4 @@ main_router = APIRouter()
 
 main_router.include_router(detect_router)
 main_router.include_router(test_router)
+
